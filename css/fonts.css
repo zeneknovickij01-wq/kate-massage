@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'SiteSans';
+  font-style: normal;
+  font-weight: 250 1000;
+  src: url('../fonts/Sans-VF.woff2') format('woff2-variations'),
+    url('../fonts/Sans-VF.woff') format('woff-variations');
+}
